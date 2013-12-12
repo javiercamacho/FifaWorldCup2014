@@ -1,0 +1,164 @@
+{
+    "teams": [
+              {
+              "id": "1",
+              "name": "Brazil",
+              "world_cup_titles": "5"
+              },
+              {
+              "id": "2",
+              "name": "Croatia",
+              "world_cup_titles": "0"
+              },
+              {
+              "id": "3",
+              "name": "Mexico",
+              "world_cup_titles": "0"
+              },
+              {
+              "id": "4",
+              "name": "Cameroon",
+              "world_cup_titles": "0"
+              },
+              {
+              "id": "5",
+              "name": "Spain",
+              "world_cup_titles": "1"
+              },
+              {
+              "id": "6",
+              "name": "Netherlands",
+              "world_cup_titles": "0"
+              },
+              {
+              "id": "7",
+              "name": "Chile",
+              "world_cup_titles": "0"
+              },
+              {
+              "id": "8",
+              "name": "Australia",
+              "world_cup_titles": "0"
+              },
+              {
+              "id": "9",
+              "name": "Colombia",
+              "world_cup_titles": "0"
+              },
+              {
+              "id": "10",
+              "name": "Japan",
+              "world_cup_titles": "0"
+              },
+              {
+              "id": "11",
+              "name": "Ivory Coast",
+              "world_cup_titles": "0"
+              },
+              {
+              "id": "12",
+              "name": "Greece",
+              "world_cup_titles": "0"
+              },
+              {
+              "id": "13",
+              "name": "Uruguay",
+              "world_cup_titles": "2"
+              },
+              {
+              "id": "14",
+              "name": "Costa Rica",
+              "world_cup_titles": "0"
+              },
+              {
+              "id": "15",
+              "name": "England",
+              "world_cup_titles": "1"
+              },
+              {
+              "id": "16",
+              "name": "Italy",
+              "world_cup_titles": "4"
+              },
+              {
+              "id": "17",
+              "name": "Switzerland",
+              "world_cup_titles": "0"
+              },
+              {
+              "id": "18",
+              "name": "Ecuador",
+              "world_cup_titles": "0"
+              },
+              {
+              "id": "19",
+              "name": "France",
+              "world_cup_titles": "1"
+              },
+              {
+              "id": "20",
+              "name": "Honduras",
+              "world_cup_titles": "0"
+              },
+              {
+              "id": "21",
+              "name": "Argentina",
+              "world_cup_titles": "2"
+              },
+              {
+              "id": "22",
+              "name": "Nigeria",
+              "world_cup_titles": "0"
+              },
+              {
+              "id": "23",
+              "name": "Bosnia & Herzegovina",
+              "world_cup_titles": "0"
+              },
+              {
+              "id": "24",
+              "name": "Iran",
+              "world_cup_titles": "0"
+              },
+              {
+              "id": "25",
+              "name": "Germany",
+              "world_cup_titles": "3"
+              },
+              {
+              "id": "26",
+              "name": "Portugal",
+              "world_cup_titles": "0"
+              },
+              {
+              "id": "27",
+              "name": "Ghana",
+              "world_cup_titles": "0"
+              },
+              {
+              "id": "28",
+              "name": "United States",
+              "world_cup_titles": "0"
+              },
+              {
+              "id": "29",
+              "name": "Belgium",
+              "world_cup_titles": "0"
+              },
+              {
+              "id": "30",
+              "name": "Russia",
+              "world_cup_titles": "0"
+              },
+              {
+              "id": "31",
+              "name": "Algeria",
+              "world_cup_titles": "0"
+              },
+              {
+              "id": "32",
+              "name": "South Korea",
+              "world_cup_titles": "0"
+              }
+    ]
+}

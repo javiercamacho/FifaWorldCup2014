@@ -1,0 +1,13 @@
+{
+    "Uruguay": {
+        "team_id": "13",
+        "name": "Uruguay",
+        "association": "Asociación Uruguaya de Fútbol",
+        "founded:": "30/03/1900",
+        "overview": "La Selección de fútbol del Uruguay es el equipo representativo del país en las competiciones oficiales. Su organización está a cargo de la Asociación Uruguaya de Fútbol, perteneciente a la Confederación Sudamericana de Fútbol (CONMEBOL). A nivel de selecciones mayores suma veinte títulos oficiales internacionales (récord mundial): quince Copas América, dos Copas del Mundo, dos Juegos Olímpicos y un Mundialito.",
+        "continental_titles": "15",
+        "olympic_titles": "2",
+        "fifa_ranking": "6",
+        "world_cup_titles": "2"
+    }
+}
